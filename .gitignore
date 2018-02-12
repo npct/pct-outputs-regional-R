@@ -1,7 +1,4 @@
 .Rproj.user
 .Rhistory
 
-school/lsoa/**
-
-#commute/msoa/wales/**
-#commute/lsoa/wales/**
+school_private/**

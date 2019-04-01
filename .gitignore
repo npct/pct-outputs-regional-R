@@ -2,3 +2,6 @@
 .Rhistory
 
 school_private/**
+rnet_extern*
+rnet_intern*
+rnet_sf*
